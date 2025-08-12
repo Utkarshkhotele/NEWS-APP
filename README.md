@@ -28,20 +28,17 @@ Cached Network Image for optimized images
 
 Intl for date formatting
 
-🚀 Getting Started
-bash
-Copy
-Edit
 # Clone the repository
-git clone https://github.com/Utkarshkhotele/NEWS-APP/.git
+git clone https://github.com/UtkarshkhoteIe/NEWS-APP.git
 
 # Navigate to project directory
-cd flutter-news-app
+cd NEWS-APP
 
 # Install dependencies
 flutter pub get
 
 # Run the app
 flutter run
+
 📡 API Used
 NewsAPI.org — for fetching live news data.
