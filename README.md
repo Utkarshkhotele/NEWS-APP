@@ -33,7 +33,7 @@ bash
 Copy
 Edit
 # Clone the repository
-git clone https://github.com/yourusername/flutter-news-app.git
+git clone https://github.com/Utkarshkhotele/NEWS-APP/.git
 
 # Navigate to project directory
 cd flutter-news-app
