@@ -37,12 +37,7 @@ The app is designed with a **sleek, responsive UI**, smooth animations, and seam
   - `intl`
   - `lottie`
 
----
 
-## 📸 Screenshots
-_Add screenshots or GIFs here to showcase the app UI._
-
----
 
 ## 📌 Project Highlights
 - Clean code structure following **best practices**.  
@@ -54,8 +49,4 @@ _Add screenshots or GIFs here to showcase the app UI._
 ## 🏆 Contribution
 Feel free to fork this repository, raise issues, and submit pull requests to improve the app.
 
----
-
-## 📄 License
-This project is licensed under the **MIT License** - see the LICENSE file for details.
 
